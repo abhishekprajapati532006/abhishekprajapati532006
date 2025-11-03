@@ -54,7 +54,7 @@ class AboutAbhishek {
 |  |  |  | ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) |  |
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=1000000&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=1000000&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polymath-saksh&theme=github_dark)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polymath-saksh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polymath-saksh&theme=github_dark)<br/>
