@@ -9,7 +9,7 @@
 - 📚 I'm a Full Stack Developer, CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India.
 - 🌱 I’m currently diving deep into MERN stack and Next.js projects.
 - 😄 Fun fact: I flirt better with Git than with girls.
-- **🐯** New GitHub: [Old Profile](https://github.com/abhishekprajapat)
+- **🐯** New GitHub: [New Profile](https://github.com/abhishekprajapat)
 
 ```javascript
 class AboutAbhishek {
