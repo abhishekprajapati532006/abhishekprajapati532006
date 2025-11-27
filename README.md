@@ -15,7 +15,7 @@
 class AboutAbhishek {
   constructor() {
     this.name = "Abhishek Prajapati";
-    this.role = "Full Stack Developer (MERN & Next.js)";
+    this.role = "Full Stack Developer (Java Spring Boot & Next.js)";
     this.location = "🇮🇳 India";
     this.workhub = "🌿 https://focusu.vercel.app";
     this.focus = "🌱 Building scalable web apps";
