@@ -18,7 +18,7 @@ class AboutAbhishek {
     this.role = "Full Stack Developer (Java Spring Boot & Next.js)";
     this.location = "🇮🇳 India";
     this.workhub = "🌿 https://focusu.vercel.app";
-    this.focus = "🌱 Building scalable web apps";
+    this.focus = "🌱 Building scalable System";
     this.funFact = "😄 Git > Girls";
   }
   
