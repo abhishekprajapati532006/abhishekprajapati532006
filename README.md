@@ -56,13 +56,13 @@ class AboutAbhishek {
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aptos&weight=300&size=30&duration=1000&pause=1000000&color=FFFFFF&repeat=true&random=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats%3A)](https://git.io/typing-svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polymath-saksh&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polymath-saksh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polymath-saksh&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=polymath-saksh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=polymath-saksh&theme=github_dark&utcOffset=5.30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapati532006&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekprajapati532006&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekprajapati532006&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekprajapati532006&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekprajapati532006&theme=github_dark&utcOffset=5.30)
 
-[![](https://visitcount.itsvg.in/api?id=Polymath-Saksh&icon=1&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhishekprajapati532006&icon=1&color=8)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials
 
